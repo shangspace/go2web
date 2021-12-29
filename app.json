@@ -1,6 +1,6 @@
 {
     "name": "Web",
-    "description": "go websocket on heroku",
+    "description": "go websocket",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
